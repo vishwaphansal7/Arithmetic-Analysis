@@ -1,9 +1,5 @@
 """
 Checks if a system of forces is in static equilibrium.
-
-python/black : true
-flake8 : passed
-mypy : passed
 """
 
 from __future__ import annotations
